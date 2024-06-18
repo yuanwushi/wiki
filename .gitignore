@@ -117,3 +117,6 @@ dmypy.json
 
 #ide
 .idea/
+.vscode
+conf/
+docs/
