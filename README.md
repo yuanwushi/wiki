@@ -8,8 +8,8 @@
 
 | 微信公众号       | 微信号            | 二维码                                                           |
 | ---------------- | ----------------- | ---------------------------------------------------------------- |
-| 元吾氏反催眠游戏 | `yuanwushicom`  | `<img src="/images/wechat/元吾氏反催眠游戏.jpeg" width="128">` |
-| 遇见元吾氏       | `yujianyuwushi` | `<img src="/images/wechat/遇见元吾氏.jpeg" width="128">`       |
+| 元吾氏反催眠游戏       | `yuanwushicom`   | <img src="/images/wechat/元吾氏反催眠游戏.jpeg" width="128">     |
+| 遇见元吾氏 | `yujianyuwushi` | <img src="/images/wechat/遇见元吾氏.jpeg" width="128">  |
 
 ## 元吾氏文章合集
 
